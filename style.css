@@ -1,0 +1,20 @@
+
+body{
+  font-size: 40px;
+}
+.parent{
+  padding: 10px;
+  background-color: #2ECC40;
+}
+.child{
+  padding: 10px;
+}
+.child-one{
+  background-color: #39CCCC;
+}
+.child-two{
+  background-color: #FF1111;
+}
+.child-three{
+  background-color: #01FF70;
+}
